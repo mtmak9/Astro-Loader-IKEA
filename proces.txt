@@ -1,0 +1,59 @@
+*1.Click on Consigment
+*2.Click on Shipment
+*3.Hotkey: CTR + F
+*4.Send_key: Shipment number
+*5.Send_key: Enter or Click: OK_Button
+*6.Click on Shipment(Shipment_nr)
+7.Hotkey: CTR+C
+8.Click on, TAB 'SQL Queries Published'
+    9.If not visible: 'Despatch Paper' Double_click on: 'Booking office'
+10.Double_click on 'Despatch Paper'
+11.Hotkey: CTR + V
+12.Click on: OK_Button
+13.Click on: Extended shp(Shipment)
+14.Hotkey: CTR + R
+15.Click on: Show_button
+16.Click on: File_preview_button
+17.Click on: Export_document_button
+18.Click on: OK_button_PDF_Export
+19.Hotkey: CTR + V 
+20.Click on: Save_button
+21.Click on: Yes_confirm_export_button
+------PDF Process-------
+22.Hotkey: CTR + '-' x3
+23.Click: Fill&Sign_icon
+24.Click on: registration_nr_image
+25.Send_key: registration_nr
+26.Click on: Seal_nr_image x2 (Deactivate registration_nr_textbox + activate seal_nr_writing)
+27.click on: seal_nr_image - 50px (for deactivate text box)
+28.Scroll_Down or Hotkey: Page Down
+29.Click on: seal_nr_gatepass
+30.Send_key: seal_nr
+31.Click on: vehicle_reg_gatepass x2
+32.Send_key: vehicle_reg
+33.Click on: trailer_id_image
+34.Send_key: trailer_id
+35.Click on: Sign_icon
+36.Click on: michal.m_sign
+37.Drag to: Issued by & Click
+38.Click on: Sign_icon
+39.Click on: michal.m_sign
+40.Drago to: warehouse_signature
+41.Click on: Tools_icon
+42.Click on: Certificates
+43.Click on: Digitally_sign_icon
+44.Drag Box on: Driver_signature
+45.wait..... -- pause
+46.Click on: Digitally_signature_icon
+47.Drag Box on: 2nd Driver_signature
+48.wait..... -- pause
+-----------Ending-Process--------------------------
+49.Click on: Print_icon
+50.Click on: printer_arrow_up
+51.Click on: Print_button
+52.Click on: close_pdf_button
+    53.if appear save_change_pop_up: Click on: Yes_button
+54.Click on: close_X_black_button_preview
+55.Click on: Cancel_button
+56.Click on: Consigment
+57.Stop Program

@@ -1,0 +1,4 @@
+Pillow - upgrade
+numpy
+pyautogui
+opencv-python
