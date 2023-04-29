@@ -10,7 +10,6 @@ The program uses the pyautogui libraries to recognize items on the screen and pe
 Program is working only with Custom Theme on application ASTRO, in folder images, there attached files with ASTRO elements.
 
 ## Future Features
-- Attach GIRTEKA & PETERBOROUGH load using checkboxes
 - System will notify by sound driver's to sign on touch-pad panel
 - Automaticly Check-In empty Trailers in the system
 - Check-box option for first run app and setup requied settings
